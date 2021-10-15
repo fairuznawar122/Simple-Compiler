@@ -1,0 +1,13 @@
+
+SL no	Name	Id Type	DataType	Scope	Value
+***********************************************************
+1	x1	var	float		global	3.125	
+2	f1	func	double		global		
+3	a	var	float		f1		
+4		var	int		f1		
+5	z	var	double		f1	0.01	
+6	main	func	int		global		
+7	g	var	id g		main	9	
+8	n1	var	int		main	25	
+9	z	var	double		main		
+10	z	var	int		main		

@@ -1,0 +1,35 @@
+1: 
+
+2: 
+
+3:float  id x1 =3.125;;; 
+
+4: 
+
+5:double  id f1 (float  id a ,int int  id x ) 
+
+6:{if ( id x < id x1 ) 
+
+7:double  id z ;; 
+
+8:else  id z =0.01;}} 
+
+9:else return  id z ; 
+
+10:} 
+
+11: 
+
+12:int  id main (void ) 
+
+13:{{{{ 
+
+14: id g =9; 
+
+15:int  id n1 ;double  id z ; 
+
+16:int  id z ; 
+
+17: id n1 =25; id z = id f1 ( id n1 );} 
+
+18:

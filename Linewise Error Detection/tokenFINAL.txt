@@ -1,0 +1,1 @@
+[float][id x1][=][3.125][;][;][;][double][id f1][(][float][id a][,][int][int][id x][)][{][if][(][id x][<][id x1][)][double][id z][;][;][else][id z][=][0.01][;][}][}][else][return][id z][;][}][int][id main][(][void][)][{][{][{][{][id g][=][9][;][int][id n1][;][double][id z][;][int][id z][;][id n1][=][25][;][id z][=][id f1][(][id n1][)][;][}]
