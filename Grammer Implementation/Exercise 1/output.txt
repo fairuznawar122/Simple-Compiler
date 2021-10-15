@@ -1,0 +1,5 @@
+The String ad is Valid.
+The String abbd is Valid.
+The String abbbbd is Valid.
+The String abcd is Valid.
+The String abcbbd is Valid.

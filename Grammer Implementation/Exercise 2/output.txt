@@ -1,0 +1,6 @@
+The String (a+b)*(a-2) is Valid.
+The String (7+b)/(4-2) is Valid.
+The String a+6 is Valid.
+The String a*7 is Valid.
+The String b/3 is Valid.
+The String (7+2)*b is Valid.
