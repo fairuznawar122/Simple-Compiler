@@ -1,0 +1,10 @@
+float
+int
+int
+for
+return
+int
+int
+if
+else
+return

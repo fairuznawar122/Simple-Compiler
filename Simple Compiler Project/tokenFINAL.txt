@@ -1,0 +1,1 @@
+[#][id include][<][stdio.h][>][float][id func][(][int][id x][)][)][{][int][id y][;][;][for][(][id y][;][id x][,][)][{][}][return][1.5][;][}][int][id main][(][)][{][int][id a][=][1][;][if][(][id c][)][id a][=][2][;][else][id a][=][0][;][return][0][;][}]

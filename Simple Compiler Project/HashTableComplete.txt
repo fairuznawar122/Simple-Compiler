@@ -1,0 +1,8 @@
+
+SL no	Name	Id Type	DataType		Scope	Value
+***********************************************************
+1	func	func	float		global		
+2	x	var	int		func		
+3	y	var	int		func		
+4	main	func	int		global		
+5	a	var	int		main	0	

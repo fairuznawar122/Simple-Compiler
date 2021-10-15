@@ -1,0 +1,33 @@
+1: # id include < stdio.h> 
+
+2: 
+
+3:float  id func (int  id x )) 
+
+4:{ 
+
+5:int  id y ;; 
+
+6:for ( id y ; id x ,){}return 1.5; 
+
+7:} 
+
+8:int  id main () 
+
+9:{ 
+
+10:int  id a =1; 
+
+11:if ( id c ) 
+
+12: id a =2; 
+
+13:else  
+
+14: id a =0; 
+
+15:return 0; 
+
+16:} 
+
+17:
