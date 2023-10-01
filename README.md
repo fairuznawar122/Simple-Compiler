@@ -1,4 +1,8 @@
+
 # Simple-Compiler
+# A simple C compiler with Lexical Analyzer, Tokenizer, HashTable and Simple Error detection
+
+
 Output -    
 
 Source code with line number:     
